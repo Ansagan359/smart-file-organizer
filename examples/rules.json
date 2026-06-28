@@ -1,0 +1,9 @@
+{
+  "Pictures": ["jpg", "jpeg", "png", "gif", "webp", "heic"],
+  "Docs": ["pdf", "doc", "docx", "txt", "md"],
+  "Spreadsheets": ["xls", "xlsx", "csv"],
+  "Music": ["mp3", "wav", "flac"],
+  "Movies": ["mp4", "mkv", "mov"],
+  "Archives": ["zip", "rar", "7z"],
+  "Installers": ["exe", "msi", "dmg"]
+}
